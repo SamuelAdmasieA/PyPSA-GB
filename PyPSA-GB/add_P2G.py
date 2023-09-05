@@ -53,7 +53,6 @@ def add_P2G(year, scenario=None):
     df_gsp_data = df_gsp_data[['Latitude', 'Longitude']]
     df_gsp_data.rename(columns={'Latitude': 'y', 'Longitude': 'x'}, inplace=True)
     df_gsp_data['Bus'] = dc.map_to_bus(df_gsp_data)
-
     df_FES_bb = pd.read_excel('../data/FES2022/FES2022 Workbook V4.xlsx', sheet_name='BB1')
     df_P2G = df_FES_bb[(df_FES_bb['FES Scenario']==scenario) & (df_FES_bb['Building Block ID Number']=='Dem_BB009')].copy()
     df_P2G.insert(6, 'bus', np.nan)

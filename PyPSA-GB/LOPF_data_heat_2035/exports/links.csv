@@ -1,0 +1,30 @@
+name,bus0,bus1,carrier,p_nom,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,build_year,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+heat pump Beauly,Beauly,Heat Bus 1,heat,2865.192,,,,,,,,0,0,0,1,0,2865.192
+heat pump Peterhead,Peterhead,Heat Bus 2,heat,14055.192,,,,,,,,0,0,0,1,0,14055.192
+heat pump Errochty,Errochty,Heat Bus 3,heat,5671.836,,,,,,,,0,0,0,1,0,5671.836
+heat pump Denny/Bonnybridge,Denny/Bonnybridge,Heat Bus 4,heat,50004.756,,,,,,,,0,0,0,1,0,50004.756
+heat pump Neilston,Neilston,Heat Bus 5,heat,7808.532,,,,,,,,0,0,0,1,0,7808.532
+heat pump Strathaven,Strathaven,Heat Bus 6,heat,86587.356,,,,,,,,0,0,0,1,0,86587.356
+heat pump Torness,Torness,Heat Bus 7,heat,14963.844,,,,,,,,0,0,0,1,0,14963.844
+heat pump Eccles,Eccles,Heat Bus 8,heat,4745.424,,,,,,,,0,0,0,1,0,4745.424
+heat pump Harker,Harker,Heat Bus 9,heat,10146.12,,,,,,,,0,0,0,1,0,10146.12
+heat pump Stella West,Stella West,Heat Bus 10,heat,51748.884,,,,,,,,0,0,0,1,0,51748.884
+heat pump Penwortham,Penwortham,Heat Bus 11,heat,79783.32,,,,,,,,0,0,0,1,0,79783.32
+heat pump Deeside,Deeside,Heat Bus 12,heat,7262.1,,,,,,,,0,0,0,1,0,7262.1
+heat pump Daines,Daines,Heat Bus 13,heat,81727.692,,,,,,,,0,0,0,1,0,81727.692
+heat pump Th. Marsh/Stocksbridge,Th. Marsh/Stocksbridge,Heat Bus 14,heat,48372.924,,,,,,,,0,0,0,1,0,48372.924
+heat pump Thornton/Drax/Eggborough,Thornton/Drax/Eggborough,Heat Bus 15,heat,26928.24,,,,,,,,0,0,0,1,0,26928.24
+heat pump Keadby,Keadby,Heat Bus 16,heat,30973.056,,,,,,,,0,0,0,1,0,30973.056
+heat pump Ratcliffe,Ratcliffe,Heat Bus 17,heat,52809.468,,,,,,,,0,0,0,1,0,52809.468
+heat pump Feckenham,Feckenham,Heat Bus 18,heat,88150.968,,,,,,,,0,0,0,1,0,88150.968
+heat pump Walpole,Walpole,Heat Bus 19,heat,14217.372,,,,,,,,0,0,0,1,0,14217.372
+heat pump Bramford,Bramford,Heat Bus 20,heat,31221.192,,,,,,,,0,0,0,1,0,31221.192
+heat pump Pelham,Pelham,Heat Bus 21,heat,19546.872,,,,,,,,0,0,0,1,0,19546.872
+heat pump Sundon/East Claydon,Sundon/East Claydon,Heat Bus 22,heat,50643.36,,,,,,,,0,0,0,1,0,50643.36
+heat pump Melksham,Melksham,Heat Bus 23,heat,58213.572,,,,,,,,0,0,0,1,0,58213.572
+heat pump Bramley,Bramley,Heat Bus 24,heat,44549.796,,,,,,,,0,0,0,1,0,44549.796
+heat pump London,London,Heat Bus 25,heat,206868.036,,,,,,,,0,0,0,1,0,206868.036
+heat pump Kemsley,Kemsley,Heat Bus 26,heat,63946.968,,,,,,,,0,0,0,1,0,63946.968
+heat pump Sellindge,Sellindge,Heat Bus 27,heat,12859.572,,,,,,,,0,0,0,1,0,12859.572
+heat pump Lovedean,Lovedean,Heat Bus 28,heat,64817.832,,,,,,,,0,0,0,1,0,64817.832
+heat pump S.W.Penisula,S.W.Penisula,Heat Bus 29,heat,33195.6,,,,,,,,0,0,0,1,0,33195.6

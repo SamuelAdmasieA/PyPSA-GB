@@ -1,0 +1,9 @@
+name,bus0,bus1,carrier,p_nom,marginal_cost,p_min_pu
+BritNed,Netherlands,Kemsley,DC,1000,20,-1
+EastWest,Ireland,Deeside,DC,600,7,-1
+Moyle,N. Ireland,Neilston,DC,600,7,-1
+Nemo,Belgium,Sellindge,DC,1000,20,-1
+IFA,France1,Sellindge,DC,2000,15,-1
+IFA2,France2,Lovedean,DC,1000,15,-1
+NSL,Norway,Stella West,DC,1400,1,-1
+ElecLink,France1,Sellindge,DC,1000,15,-1

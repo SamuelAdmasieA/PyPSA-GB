@@ -1,0 +1,34 @@
+name,p_nom,carrier,marginal_cost,max_hours,efficiency_store,efficiency_dispatch,state_of_charge_initial,bus,standing_loss,capital_cost,p_nom_extendable
+Dinorwig,1728,Pumped Storage Hydroelectric,0,5.266,0.865,0.865,9099.648,Deeside,0,0,FALSE
+Ffestiniog,360,Pumped Storage Hydroelectric,0,3.889,0.85,0.85,1400.04,Deeside,0,0,FALSE
+Cruachan,440,Pumped Storage Hydroelectric,0,16.136,0.865,0.865,7099.84,Errochty,0,0,FALSE
+Foyers,300,Pumped Storage Hydroelectric,0,21,0.865,0.865,6300,Beauly,0,0,FALSE
+STES_Beauly,500,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 1,0.1,1000,TRUE
+STES_Peterhead,500,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 2,0.1,1000,TRUE
+STES_Errochty,500,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 3,0.1,1000,TRUE
+STES_Denny/BonnyBdige,501,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 4,0.1,1000,TRUE
+STES_Neilston,502,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 5,0.1,1000,TRUE
+STES_Strathaven,503,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 6,0.1,1000,TRUE
+STES_Torness,504,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 7,0.1,1000,TRUE
+STES_Eccles,505,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 8,0.1,1000,TRUE
+STES_Harker,506,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 9,0.1,1000,TRUE
+STES_Stella West,507,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 10,0.1,1000,TRUE
+STES_Penwortham,508,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 11,0.1,1000,TRUE
+STES_Deeside,508,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 12,0.1,1000,TRUE
+STES_Daines,509,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 13,0.1,1000,TRUE
+STES_Marsh_Stocksbridge,510,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 14,0.1,1000,TRUE
+STES_Thornton_Drax_Eggborough,511,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 15,0.1,1000,TRUE
+STES_Keadby,512,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 16,0.1,1000,TRUE
+STES_Ratcliffe,513,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 17,0.1,1000,TRUE
+STES_Feckenham,514,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 18,0.1,1000,TRUE
+STES_Walpole,515,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 19,0.1,1000,TRUE
+STES_Bramford,516,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 20,0.1,1000,TRUE
+STES_Pelham,500,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 21,0.1,1000,TRUE
+STES_Sundon_East_Claydon,501,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 22,0.1,1000,TRUE
+STES_Melksham,502,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 23,0.1,1000,TRUE
+STES_Bramley,503,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 24,0.1,1000,TRUE
+STES_London,504,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 25,0.1,1000,TRUE
+STES_Kemsley,505,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 26,0.1,1000,TRUE
+STES_Sellindge,506,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 27,0.1,1000,TRUE
+STES_Lovedean,507,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 28,0.1,1000,TRUE
+STES_S_W_Penisula,508,Seasonal Thermal Energy Storage,0,2880,0.9,0.9,1440000,Heat Bus 29,0.1,1000,TRUE

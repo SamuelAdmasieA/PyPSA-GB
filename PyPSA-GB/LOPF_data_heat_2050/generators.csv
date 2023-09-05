@@ -1,0 +1,433 @@
+,carrier,type,p_nom,bus,marginal_cost,ramp_limit_up,ramp_limit_down,p_max_pu
+West Burton,Coal,Conventional steam,0,Keadby,,1,1,1
+Sutton Bridge CCS Gas,CCS Gas,CCS Gas,116.6714,Walpole,100,1,1,1
+Baglan Bay CCS Gas,CCS Gas,CCS Gas,74.07708,Melksham,100,1,1,1
+Severn Power CCS Gas,CCS Gas,CCS Gas,121.08754,Melksham,100,1,1,1
+Blackburn CCS Gas,CCS Gas,CCS Gas,8.547356,Penwortham,100,1,1,1
+Damhead Creek CCS Gas,CCS Gas,CCS Gas,114.67702,Kemsley,100,1,1,1
+Rye House CCS Gas,CCS Gas,CCS Gas,101.85599,Pelham,100,1,1,1
+Shoreham CCS Gas,CCS Gas,CCS Gas,59.83149,Lovedean,100,1,1,1
+Castleford CCS Gas,CCS Gas,CCS Gas,7.977532,Thornton/Drax/Eggborough,100,1,1,1
+Sandbach CCS Gas,CCS Gas,CCS Gas,7.977532,Daines,100,1,1,1
+Thornhill CCS Gas,CCS Gas,CCS Gas,7.1227965,Th. Marsh/Stocksbridge,100,1,1,1
+West Burton CCGT CCS Gas,CCS Gas,CCS Gas,189.7513,Keadby,100,1,1,1
+South Humber Bank CCS Gas,CCS Gas,CCS Gas,194.45235,Keadby,100,1,1,1
+Langage CCS Gas,CCS Gas,CCS Gas,128.9226,S.W.Penisula,100,1,1,1
+Corby CCS Gas,CCS Gas,CCS Gas,57.97956,Ratcliffe,100,1,1,1
+Carrington CCS Gas,CCS Gas,CCS Gas,129.63489,Daines,100,1,1,1
+Fellside CHP* CCS Gas,CCS Gas,CCS Gas,22.08067,Harker,100,1,1,1
+Rocksavage CCS Gas,CCS Gas,CCS Gas,115.3893,Deeside,100,1,1,1
+Coryton CCS Gas,CCS Gas,CCS Gas,113.964745,Kemsley,100,1,1,1
+Spalding CCS Gas,CCS Gas,CCS Gas,135.33313,Walpole,100,1,1,1
+Marchwood CCS Gas,CCS Gas,CCS Gas,127.92542,Lovedean,100,1,1,1
+Didcot B CCS Gas,CCS Gas,CCS Gas,206.5611,Bramley,100,1,1,1
+Great Yarmouth CCS Gas,CCS Gas,CCS Gas,59.83149,Bramford,100,1,1,1
+Little Barford CCS Gas,CCS Gas,CCS Gas,102.995636,Sundon/East Claydon,100,1,1,1
+Pembroke CCS Gas,CCS Gas,CCS Gas,313.2606,Melksham,100,1,1,1
+Staythorpe C CCS Gas,CCS Gas,CCS Gas,252.4319,Ratcliffe,100,1,1,1
+Seabank CCS Gas,CCS Gas,CCS Gas,175.79062,Melksham,100,1,1,1
+Peterhead CCS Gas,CCS Gas,CCS Gas,168.09799,Peterhead,100,1,1,1
+Keadby CCS Gas,CCS Gas,CCS Gas,104.70511,Keadby,100,1,1,1
+Medway CCS Gas,CCS Gas,CCS Gas,107.55422,Kemsley,100,1,1,1
+Saltend* CCS Gas,CCS Gas,CCS Gas,170.94711,Keadby,100,1,1,1
+Cottam Development Centre CCS Gas,CCS Gas,CCS Gas,63.392887,Keadby,100,1,1,1
+Enfield CCS Gas,CCS Gas,CCS Gas,58.122017,London,100,1,1,1
+Grain CHP* CCS Gas,CCS Gas,CCS Gas,216.10564,Kemsley,100,1,1,1
+VPI Immingham* CCS Gas,CCS Gas,CCS Gas,178.35481,Keadby,100,1,1,1
+Connahs Quay CCS Gas,CCS Gas,CCS Gas,196.58917,Deeside,100,1,1,1
+Aberthaw Power Station Biomass,Biomass (co-firing),Biomass (co-firing),2.8,Melksham,44,1,1,0.73
+Drax Biomass Power Station - Unit 1,Biomass (co-firing),Biomass (co-firing),51.6,Thornton/Drax/Eggborough,44,1,1,0.73
+Thetford Biomass Power Station,Biomass (dedicated),Biomass (dedicated),36.61466354,Walpole,44,1,1,0.73
+Chilton Energy Plant,Biomass (dedicated),Biomass (dedicated),17.11854399,Stella West,44,1,1,0.73
+Double H Nurseries Biomass Plant,Biomass (dedicated),Biomass (dedicated),1.426545333,S.W.Penisula,44,1,1,0.73
+Beckton STW Biodiesel Power Plant,Biomass (dedicated),Biomass (dedicated),7.608241774,London,44,1,1,0.73
+Buslingthorpe Power Station (Leeds North),Biomass (dedicated),Biomass (dedicated),1.902060444,Thornton/Drax/Eggborough,44,1,1,0.73
+Invergordon Pellet Mill,Biomass (dedicated),Biomass (dedicated),1.123312117,Beauly,44,1,1,0.73
+Caledonian Papermill,Biomass (dedicated),Biomass (dedicated),5.84122301,Neilston,44,1,1,0.73
+Wilton International,Biomass (dedicated),Biomass (dedicated),33.47626381,Stella West,44,1,1,0.73
+South View Farm,Biomass (dedicated),Biomass (dedicated),1.902060444,Thornton/Drax/Eggborough,44,1,1,0.73
+Cowie Biomass Facility,Biomass (dedicated),Biomass (dedicated),3.369936352,Denny/Bonnybridge,44,1,1,0.73
+Thornton Power Station,Biomass (dedicated),Biomass (dedicated),8.559271996,Penwortham,44,1,1,0.73
+Iggesund Paperboard CHP Plant,Biomass (dedicated),Biomass (dedicated),46.60048087,Harker,44,1,1,0.73
+Goosey Lodge Industrial Estate,Biomass (dedicated),Biomass (dedicated),15.21648355,Sundon/East Claydon,44,1,1,0.73
+Western Wood Energy Plant,Biomass (dedicated),Biomass (dedicated),13.3144231,Melksham,44,1,1,0.73
+Eccleshall Biomass,Biomass (dedicated),Biomass (dedicated),2.472678577,Daines,44,1,1,0.73
+Westfield Biomass Power Station,Biomass (dedicated),Biomass (dedicated),2.808280293,Denny/Bonnybridge,44,1,1,0.73
+Derriford Hospital,Biomass (dedicated),Biomass (dedicated),1.426545333,S.W.Penisula,44,1,1,0.73
+Rampton Hospital Energy Centre,Biomass (dedicated),Biomass (dedicated),1.141236266,Keadby,44,1,1,0.73
+Elean Business Park Biomass Plant,Biomass (dedicated),Biomass (dedicated),38.04120887,Walpole,44,1,1,0.73
+Eye Biomass Plant,Biomass (dedicated),Biomass (dedicated),13.59973217,Bramford,44,1,1,0.73
+King's Yard,Biomass (dedicated),Biomass (dedicated),2.853090665,London,44,1,1,0.73
+Ridham CHP Plant,Biomass (dedicated),Biomass (dedicated),23.77575554,Kemsley,44,1,1,0.73
+Margam Green Energy Plant,Biomass (dedicated),Biomass (dedicated),38.04120887,Melksham,44,1,1,0.73
+Lynemouth Power Station,Biomass (dedicated),Biomass (dedicated),399.4326931,Stella West,44,1,1,0.73
+Holbrook Community Renewable Energy Centre,Biomass (dedicated),Biomass (dedicated),6.181696442,Th. Marsh/Stocksbridge,44,1,1,0.73
+Cramlington CHP,Biomass (dedicated),Biomass (dedicated),26.34353714,Stella West,44,1,1,0.73
+Markley Group (Premiere Kitckens) Biomass,Biomass (dedicated),Biomass (dedicated),1.997163466,Melksham,44,1,1,0.73
+Heathrow Airport Biomass CHP,Biomass (dedicated),Biomass (dedicated),1.711854399,London,44,1,1,0.73
+Bentwaters CHP,Biomass (dedicated),Biomass (dedicated),4.37473902,Bramford,44,1,1,0.73
+SAICA Paper Mill,Biomass (dedicated),Biomass (dedicated),39.56285723,Daines,44,1,1,0.73
+Eco Composting,Biomass (dedicated),Biomass (dedicated),3.04329671,S.W.Penisula,44,1,1,0.73
+Rothes Bio-Plant,Biomass (dedicated),Biomass (dedicated),1.864698115,Beauly,44,1,1,0.73
+Beckton Gas Pressure Reduction Station,Biomass (dedicated),Biomass (dedicated),18.06957421,London,44,1,1,0.73
+Brigg Renewable Energy Plant (Re-submission),Biomass (dedicated),Biomass (dedicated),38.04120887,Keadby,44,1,1,0.73
+Tilbury Green Power,Biomass (dedicated),Biomass (dedicated),40.89429954,Kemsley,44,1,1,0.73
+Markinch Biomass CHP Plant,Biomass (dedicated),Biomass (dedicated),14.60305752,Denny/Bonnybridge,44,1,1,0.73
+Templeborough Biomass Power Plant- Rotherham,Biomass (dedicated),Biomass (dedicated),39.94326931,Th. Marsh/Stocksbridge,44,1,1,0.73
+Blackburn Meadows Biomass Plant,Biomass (dedicated),Biomass (dedicated),28.53090665,Th. Marsh/Stocksbridge,44,1,1,0.73
+Diageo Biomass Energy Project,Biomass (dedicated),Biomass (dedicated),1.235643329,Denny/Bonnybridge,44,1,1,0.73
+Discovery Park,Biomass (dedicated),Biomass (dedicated),15.21648355,Sellindge,44,1,1,0.73
+Drax Biomass Power Station - Unit 3,Biomass (dedicated),Biomass (dedicated),613.414493,Thornton/Drax/Eggborough,44,1,1,0.73
+King George Dock,Biomass (dedicated),Biomass (dedicated),8.559271996,Keadby,44,1,1,0.73
+Northampton General Hospital,Biomass (dedicated),Biomass (dedicated),1.806957421,Sundon/East Claydon,44,1,1,0.73
+Snetterton Biomass Plant,Biomass (dedicated),Biomass (dedicated),42.0355358,Bramford,44,1,1,0.73
+Speyside Biomass CHP Plant,Biomass (dedicated),Biomass (dedicated),2.808280293,Beauly,44,1,1,0.73
+Widnes 3MG Biomass/Mersey Bioenergy (CHP) Plant,Biomass (dedicated),Biomass (dedicated),19.02060444,Deeside,44,1,1,0.73
+Drax Biomass Power Station - Unit 2,Biomass (dedicated),Biomass (dedicated),613.414493,Thornton/Drax/Eggborough,44,1,1,0.73
+Stevens Croft,Biomass (dedicated),Biomass (dedicated),47.93192318,Harker,44,1,1,0.73
+Macphie of Glenbervie,Biomass (dedicated),Biomass (dedicated),0.269594908,Peterhead,44,1,1,0.73
+Sleaford Renewable Energy Plant,Biomass (dedicated),Biomass (dedicated),38.04120887,Ratcliffe,44,1,1,0.73
+Sustainable Power and Research Campus,Biomass (dedicated),Biomass (dedicated),1.460305752,Torness,44,1,1,0.73
+Whitemoor,Biomass (dedicated),Biomass (dedicated),17.11854399,Thornton/Drax/Eggborough,44,1,1,0.73
+Daventry,Biomass (dedicated),Biomass (dedicated),0.951030222,Sundon/East Claydon,44,1,1,0.73
+The Sawmill,Biomass (dedicated),Biomass (dedicated),6.467005508,Ratcliffe,44,1,1,0.73
+Felinfach,Biomass (dedicated),Biomass (dedicated),3.04329671,Deeside,44,1,1,0.73
+Acharn Forest Killin Biomass Plant,Biomass (dedicated),Biomass (dedicated),1.258109571,Errochty,44,1,1,0.73
+Hull Biomass Plant (Tansterne power station),Biomass (dedicated),Biomass (dedicated),20.92266488,Keadby,44,1,1,0.73
+Pulteney Distillery,Biomass (dedicated),Biomass (dedicated),0.786318482,Peterhead,44,1,1,0.73
+Harbour Road,Biomass (dedicated),Biomass (dedicated),0.584122301,Neilston,44,1,1,0.73
+Barnsley 1.5,Biomass (dedicated),Biomass (dedicated),8.559271996,Th. Marsh/Stocksbridge,44,1,1,0.73
+Spalding.1,Biomass (dedicated),Biomass (dedicated),13.78993822,Walpole,44,1,1,0.73
+Balderton,Biomass (dedicated),Biomass (dedicated),19.3059135,Ratcliffe,44,1,1,0.73
+Liberty Steel Power Station,Biomass (dedicated),Biomass (dedicated),8.559271996,Melksham,44,1,1,0.73
+JG Pears' animal rendering facility,Biomass (dedicated),Biomass (dedicated),11.41236266,Keadby,44,1,1,0.73
+Blazer Fuels,Biomass (dedicated),Biomass (dedicated),2.853090665,Deeside,44,1,1,0.73
+Loicher Lane,Biomass (dedicated),Biomass (dedicated),7.608241774,Th. Marsh/Stocksbridge,44,1,1,0.73
+Safran Landing Systems Service,Biomass (dedicated),Biomass (dedicated),3.423708798,Feckenham,44,1,1,0.73
+ABP Ellesmere Abbatoir,Biomass (dedicated),Biomass (dedicated),1.046133244,Deeside,44,1,1,0.73
+Alscot,Biomass (dedicated),Biomass (dedicated),1.521648355,Feckenham,44,1,1,0.73
+Ipswich Hospital Energy Centre,Biomass (dedicated),Biomass (dedicated),2.472678577,Bramford,44,1,1,0.73
+Drax Biomass Power Station - Unit 4,Biomass (dedicated),Biomass (dedicated),613.414493,Thornton/Drax/Eggborough,44,1,1,0.73
+Liberty Steel Dalzell,Biomass (dedicated),Biomass (dedicated),3.819261199,Strathaven,44,1,1,0.73
+Sutton Bridge CCS Biomass,CCS Biomass,CCS Biomass,77.59618,Walpole,120,1,1,1
+Baglan Bay CCS Biomass,CCS Biomass,CCS Biomass,49.267418,Melksham,120,1,1,1
+Severn Power CCS Biomass,CCS Biomass,CCS Biomass,80.53328,Melksham,120,1,1,1
+Blackburn CCS Biomass,CCS Biomass,CCS Biomass,5.684702,Penwortham,120,1,1,1
+Damhead Creek CCS Biomass,CCS Biomass,CCS Biomass,76.26975,Kemsley,120,1,1,1
+Rye House CCS Biomass,CCS Biomass,CCS Biomass,67.7427,Pelham,120,1,1,1
+Shoreham CCS Biomass,CCS Biomass,CCS Biomass,39.792915,Lovedean,120,1,1,1
+Castleford CCS Biomass,CCS Biomass,CCS Biomass,5.3057218,Thornton/Drax/Eggborough,120,1,1,1
+Sandbach CCS Biomass,CCS Biomass,CCS Biomass,5.3057218,Daines,120,1,1,1
+Thornhill CCS Biomass,CCS Biomass,CCS Biomass,4.7372518,Th. Marsh/Stocksbridge,120,1,1,1
+West Burton CCGT CCS Biomass,CCS Biomass,CCS Biomass,126.200386,Keadby,120,1,1,1
+South Humber Bank CCS Biomass,CCS Biomass,CCS Biomass,129.32697,Keadby,120,1,1,1
+Langage CCS Biomass,CCS Biomass,CCS Biomass,85.744255,S.W.Penisula,120,1,1,1
+Corby CCS Biomass,CCS Biomass,CCS Biomass,38.56123,Ratcliffe,120,1,1,1
+Carrington CCS Biomass,CCS Biomass,CCS Biomass,86.21798,Daines,120,1,1,1
+Fellside CHP* CCS Biomass,CCS Biomass,CCS Biomass,14.68548,Harker,120,1,1,1
+Rocksavage CCS Biomass,CCS Biomass,CCS Biomass,76.74348,Deeside,120,1,1,1
+Coryton CCS Biomass,CCS Biomass,CCS Biomass,75.79603,Kemsley,120,1,1,1
+Spalding CCS Biomass,CCS Biomass,CCS Biomass,90.00778,Walpole,120,1,1,1
+Marchwood CCS Biomass,CCS Biomass,CCS Biomass,85.08104,Lovedean,120,1,1,1
+Didcot B CCS Biomass,CCS Biomass,CCS Biomass,137.3803,Bramley,120,1,1,1
+Great Yarmouth CCS Biomass,CCS Biomass,CCS Biomass,39.792915,Bramford,120,1,1,1
+Little Barford CCS Biomass,CCS Biomass,CCS Biomass,68.500656,Sundon/East Claydon,120,1,1,1
+Pembroke CCS Biomass,CCS Biomass,CCS Biomass,208.34433,Melksham,120,1,1,1
+Staythorpe C CCS Biomass,CCS Biomass,CCS Biomass,167.8882,Ratcliffe,120,1,1,1
+Seabank CCS Biomass,CCS Biomass,CCS Biomass,116.915375,Melksham,120,1,1,1
+Peterhead CCS Biomass,CCS Biomass,CCS Biomass,111.79914,Peterhead,120,1,1,1
+Keadby CCS Biomass,CCS Biomass,CCS Biomass,69.6376,Keadby,120,1,1,1
+Medway CCS Biomass,CCS Biomass,CCS Biomass,71.5325,Kemsley,120,1,1,1
+Saltend* CCS Biomass,CCS Biomass,CCS Biomass,113.69404,Keadby,120,1,1,1
+Cottam Development Centre CCS Biomass,CCS Biomass,CCS Biomass,42.16154,Keadby,120,1,1,1
+Enfield CCS Biomass,CCS Biomass,CCS Biomass,38.655975,London,120,1,1,1
+Grain CHP* CCS Biomass,CCS Biomass,CCS Biomass,143.72821,Kemsley,120,1,1,1
+VPI Immingham* CCS Biomass,CCS Biomass,CCS Biomass,118.62078,Keadby,120,1,1,1
+Connahs Quay CCS Biomass,CCS Biomass,CCS Biomass,130.74815,Deeside,120,1,1,1
+Sutton Bridge,Natural Gas,CCGT,0,Walpole,,1,1,1
+Baglan Bay,Natural Gas,CCGT,0,Melksham,,1,1,1
+Severn Power,Natural Gas,CCGT,0,Melksham,,1,1,1
+Blackburn,Natural Gas,CCGT,0,Penwortham,,1,1,1
+Damhead Creek,Natural Gas,CCGT,0,Kemsley,,1,1,1
+Rye House,Natural Gas,CCGT,0,Pelham,,1,1,1
+Shoreham,Natural Gas,CCGT,0,Lovedean,,1,1,1
+Castleford,Natural Gas,CCGT,0,Thornton/Drax/Eggborough,,1,1,1
+Sandbach,Natural Gas,CCGT,0,Daines,,1,1,1
+Thornhill,Natural Gas,CCGT,0,Th. Marsh/Stocksbridge,,1,1,1
+West Burton CCGT,Natural Gas,CCGT,0,Keadby,,1,1,1
+South Humber Bank,Natural Gas,CCGT,0,Keadby,,1,1,1
+Langage,Natural Gas,CCGT,0,S.W.Penisula,,1,1,1
+Corby,Natural Gas,CCGT,0,Ratcliffe,,1,1,1
+Carrington,Natural Gas,CCGT,0,Daines,,1,1,1
+Fellside CHP*,Natural Gas,CCGT,0,Harker,,1,1,1
+Rocksavage,Natural Gas,CCGT,0,Deeside,,1,1,1
+Coryton,Natural Gas,CCGT,0,Kemsley,,1,1,1
+Spalding,Natural Gas,CCGT,0,Walpole,,1,1,1
+Marchwood,Natural Gas,CCGT,0,Lovedean,,1,1,1
+Didcot B,Natural Gas,CCGT,0,Bramley,,1,1,1
+Great Yarmouth,Natural Gas,CCGT,0,Bramford,,1,1,1
+Little Barford,Natural Gas,CCGT,0,Sundon/East Claydon,,1,1,1
+Pembroke,Natural Gas,CCGT,0,Melksham,,1,1,1
+Staythorpe C,Natural Gas,CCGT,0,Ratcliffe,,1,1,1
+Seabank,Natural Gas,CCGT,0,Melksham,,1,1,1
+Peterhead,Natural Gas,CCGT,0,Peterhead,,1,1,1
+Keadby,Natural Gas,CCGT,0,Keadby,,1,1,1
+Medway,Natural Gas,CCGT,0,Kemsley,,1,1,1
+Saltend*,Natural Gas,CCGT,0,Keadby,,1,1,1
+Cottam Development Centre,Natural Gas,CCGT,0,Keadby,,1,1,1
+Enfield,Natural Gas,CCGT,0,London,,1,1,1
+Grain CHP*,Natural Gas,CCGT,0,Kemsley,,1,1,1
+VPI Immingham*,Natural Gas,CCGT,0,Keadby,,1,1,1
+Connahs Quay,Natural Gas,CCGT,0,Deeside,,1,1,1
+Peterborough,Natural Gas,OCGT,0,Walpole,,1,1,1
+Glanford Brigg,Natural Gas,OCGT,0,Keadby,,1,1,1
+Barkantine Heat & Power *,Natural Gas,OCGT,0,London,,1,1,1
+London Heat & Power *,Natural Gas,OCGT,0,London,,1,1,1
+Wilton GT*,Natural Gas,OCGT,0,Stella West,,1,1,1
+Burghfield,Natural Gas,OCGT,0,Bramley,,1,1,1
+Chickerell,Natural Gas,OCGT,0,S.W.Penisula,,1,1,1
+Chippenham,Natural Gas,OCGT,0,Melksham,,1,1,1
+Pilkington - Greengate *,Natural Gas,OCGT,0,Deeside,,1,1,1
+Killingholme,Natural Gas,OCGT,0,Keadby,,1,1,1
+Dungeness B,Nuclear,AGR,1313.564856,Sellindge,5,0.03,0.03,0.73
+Hartlepool,Nuclear,AGR,1428.049866,Stella West,5,0.03,0.03,0.73
+Heysham 1,Nuclear,AGR,1277.411695,Penwortham,5,0.03,0.03,0.73
+Heysham 2,Nuclear,AGR,1494.330662,Penwortham,5,0.03,0.03,0.73
+Hinkley Point B,Nuclear,AGR,1162.926684,S.W.Penisula,5,0.03,0.03,0.73
+Hunterston B,Nuclear,AGR,0,Neilston,5,0.03,0.03,0.73
+Torness,Nuclear,AGR,0,Torness,5,0.03,0.03,0.73
+Sizewell B,Nuclear,PWR,1443.716236,Bramford,5,0.03,0.03,0.73
+Baglan Bay GT,Oil,Diesel/gas Diesel/Gas oil,0,Melksham,,1,1,1
+Drax GT,Oil,Diesel/gas Diesel/Gas oil,0,Thornton/Drax/Eggborough,,1,1,1
+West Burton GT,Oil,Diesel/gas Diesel/Gas oil,0,Keadby,,1,1,1
+Keadby GT,Oil,Diesel/gas Diesel/Gas oil,0,Keadby,,1,1,1
+Grain GT,Oil,Diesel/gas Diesel/Gas oil,0,Kemsley,,1,1,1
+Cowes,Oil,Diesel/Gas oil,0,Lovedean,,1,1,1
+Didcot GT,Oil,Diesel/Gas oil,0,Sundon/East Claydon,,1,1,1
+Little Barford GT,Oil,Diesel/Gas oil,0,Sundon/East Claydon,,1,1,1
+Lerwick,Oil,Diesel/Gas oil,0,Peterhead,,1,1,1
+Thatcham,Oil,Diesel/Gas oil,0,Bramley,,1,1,1
+Arnish,Oil,Diesel/Gas oil,0,Beauly,,1,1,1
+Barra,Oil,Diesel/Gas oil,0,Beauly,,1,1,1
+Bowmore,Oil,Diesel/Gas oil,0,Neilston,,1,1,1
+Kirkwall,Oil,Diesel/Gas oil,0,Peterhead,,1,1,1
+"Loch Carnan, South Uist",Oil,Diesel/Gas oil,0,Beauly,,1,1,1
+Stornoway,Oil,Diesel/Gas oil,0,Beauly,,1,1,1
+Tiree,Oil,Diesel/Gas oil,0,Neilston,,1,1,1
+Indian Queens,Oil,Diesel/Gas oil,0,S.W.Penisula,,1,1,1
+Grain (OCGT),Oil,Diesel/Gas oil,0,Kemsley,,1,1,1
+Taylor's Lane GT,Oil,Diesel/Gas oil,0,Lovedean,,1,1,1
+Ferrybridge Multifuel 2 (FM2),Waste,Waste,46.2,Thornton/Drax/Eggborough,0,0,0,0
+Ferrybridge Multifuel 1 (FM1),Waste,Waste,44.88,Thornton/Drax/Eggborough,0,0,0,0
+Dudley EfW,Waste,Waste,4.884,Feckenham,0,0,0,0
+Wolverhampton EfW,Waste,Waste,5.28,Feckenham,0,0,0,0
+Stoke-on-Trent EfW,Waste,Waste,9.372,Daines,0,0,0,0
+Tyseley ERF,Waste,Waste,19.8,Feckenham,0,0,0,0
+Haverton Hill Incinerator,Waste,Waste,13.266,Stella West,0,0,0,0
+"Fibrepower, Slough",Waste,Waste,33,London,0,0,0,0
+Chineham ERF,Waste,Waste,5.28,Bramley,0,0,0,0
+Marchwood ERF,Waste,Waste,10.56,Lovedean,0,0,0,0
+Vine Street EfW,Waste,Waste,6.27,Th. Marsh/Stocksbridge,0,0,0,0
+Newlincs EfW,Waste,Waste,2.112,Keadby,0,0,0,0
+Trackwork Limited (EfW),Waste,Waste,1.98,Th. Marsh/Stocksbridge,0,0,0,0
+Riverside Resource Recovery Facility (RRRF),Waste,Waste,47.52,London,0,0,0,0
+Lakeside EfW,Waste,Waste,19.8,London,0,0,0,0
+Baldovie,Waste,Waste,5.478,Denny/Bonnybridge,0,0,0,0
+Allington EFW,Waste,Waste,33.66,Kemsley,0,0,0,0
+Coventry,Waste,Waste,2.97,Feckenham,0,0,0,0
+Ardwick Railway Goods Yard Incinerator (Newhaven EFW Plant),Waste,Waste,22.11,Daines,0,0,0,0
+Bolton TRF,Waste,Waste,7.128,Daines,0,0,0,0
+North Quay ERF,Waste,Waste,12.078,Lovedean,0,0,0,0
+Sheffield ERF,Waste,Waste,12.738,Th. Marsh/Stocksbridge,0,0,0,0
+Peterborough EfW,Waste,Waste,4.818,Walpole,0,0,0,0
+Battlefield EfW,Waste,Waste,5.28,Deeside,0,0,0,0
+Four Ashes EfW,Waste,Waste,15.18,Feckenham,0,0,0,0
+Cornwall ERC,Waste,Waste,13.2,S.W.Penisula,0,0,0,0
+Severnside Energy Recovery Centre,Waste,Waste,21.12,Melksham,0,0,0,0
+Trident Park,Waste,Waste,19.8,Melksham,0,0,0,0
+Lincoln EFW,Waste,Waste,10.824,Keadby,0,0,0,0
+North East Energy Recovery Centre (adjacent to Teesside EfW),Waste,Waste,13.86,Stella West,0,0,0,0
+Wilton 11 EfW,Waste,Waste,32.34,Stella West,0,0,0,0
+Runcorn EfW,Waste,Waste,66,Deeside,0,0,0,0
+Cross Green ERF,Waste,Waste,7.656,Thornton/Drax/Eggborough,0,0,0,0
+Exeter EfW,Waste,Waste,8.58,S.W.Penisula,0,0,0,0
+North Yard EfW,Waste,Waste,14.85,S.W.Penisula,0,0,0,0
+Beddington EfW,Waste,Waste,17.16,London,0,0,0,0
+K3 CHP Facility (Kemsley EfW),Waste,Waste,32.934,Kemsley,0,0,0,0
+Allerton Waste Recovery Park (EfW),Waste,Waste,17.82,Thornton/Drax/Eggborough,0,0,0,0
+Ardley EfW,Waste,Waste,15.84,Sundon/East Claydon,0,0,0,0
+Greatmoor EfW,Waste,Waste,14.52,Sundon/East Claydon,0,0,0,0
+Twinwoods Heat & Power CHP,Waste,Waste,2.244,Sundon/East Claydon,0,0,0,0
+Dunbar EfW (previously Oxwellmains EfW),Waste,Waste,16.896,Torness,0,0,0,0
+Great Blakenham EfW,Waste,Waste,13.2,Bramford,0,0,0,0
+Javelin Park EfW,Waste,Waste,9.57,Melksham,0,0,0,0
+Parc Adfer EfW,Waste,Waste,10.56,Deeside,0,0,0,0
+EnviRecover,Waste,Waste,10.23,Feckenham,0,0,0,0
+Avonmouth Resource Recovery Centre (formerly Severn Road),Waste,Waste,22.44,Melksham,0,0,0,0
+Fawley Waste to Energy Plant,Waste,Waste,5.676,Lovedean,0,0,0,0
+Portsmouth ERF,Waste,Waste,9.24,Lovedean,0,0,0,0
+Edmonton EcoPark EfW,Waste,Waste,36.3,London,0,0,0,0
+Teesside EfW,Waste,Waste,12.672,Stella West,0,0,0,0
+Teesside EfW (extension),Waste,Waste,6.6,Stella West,0,0,0,0
+SELCHP ERF,Waste,Waste,23.1,London,0,0,0,0
+Millerhill EfW (resubmission),Waste,Waste,8.25,Torness,0,0,0,0
+Eastcroft EfW (Lines 1 & 2),Waste,Waste,5.94,Ratcliffe,0,0,0,0
+Sutton Bridge Hydrogen,Hydrogen,Hydrogen,486.5606363,Walpole,80,1,1,1
+Baglan Bay Hydrogen,Hydrogen,Hydrogen,308.9273881,Melksham,80,1,1,1
+Severn Power Hydrogen,Hydrogen,Hydrogen,504.9774614,Melksham,80,1,1,1
+Blackburn Hydrogen,Hydrogen,Hydrogen,35.64546786,Penwortham,80,1,1,1
+Damhead Creek Hydrogen,Hydrogen,Hydrogen,478.2433605,Kemsley,80,1,1,1
+Rye House Hydrogen,Hydrogen,Hydrogen,424.7751587,Pelham,80,1,1,1
+Shoreham Hydrogen,Hydrogen,Hydrogen,249.518275,Lovedean,80,1,1,1
+Castleford Hydrogen,Hydrogen,Hydrogen,33.26910334,Thornton/Drax/Eggborough,80,1,1,1
+Sandbach Hydrogen,Hydrogen,Hydrogen,33.26910334,Daines,80,1,1,1
+Thornhill Hydrogen,Hydrogen,Hydrogen,29.70455655,Th. Marsh/Stocksbridge,80,1,1,1
+West Burton CCGT Hydrogen,Hydrogen,Hydrogen,791.3293865,Keadby,80,1,1,1
+South Humber Bank Hydrogen,Hydrogen,Hydrogen,810.9343938,Keadby,80,1,1,1
+Langage Hydrogen,Hydrogen,Hydrogen,537.6524736,S.W.Penisula,80,1,1,1
+Corby Hydrogen,Hydrogen,Hydrogen,241.7950903,Ratcliffe,80,1,1,1
+Carrington Hydrogen,Hydrogen,Hydrogen,540.6229292,Daines,80,1,1,1
+Fellside CHP* Hydrogen,Hydrogen,Hydrogen,92.08412531,Harker,80,1,1,1
+Rocksavage Hydrogen,Hydrogen,Hydrogen,481.2138161,Deeside,80,1,1,1
+Coryton Hydrogen,Hydrogen,Hydrogen,475.2729048,Kemsley,80,1,1,1
+Spalding Hydrogen,Hydrogen,Hydrogen,564.3865745,Walpole,80,1,1,1
+Marchwood Hydrogen,Hydrogen,Hydrogen,533.4938357,Lovedean,80,1,1,1
+Didcot B Hydrogen,Hydrogen,Hydrogen,861.43214,Bramley,80,1,1,1
+Great Yarmouth Hydrogen,Hydrogen,Hydrogen,249.518275,Bramford,80,1,1,1
+Little Barford Hydrogen,Hydrogen,Hydrogen,429.5278877,Sundon/East Claydon,80,1,1,1
+Pembroke Hydrogen,Hydrogen,Hydrogen,1306.406397,Melksham,80,1,1,1
+Staythorpe C Hydrogen,Hydrogen,Hydrogen,1052.729484,Ratcliffe,80,1,1,1
+Seabank Hydrogen,Hydrogen,Hydrogen,733.1084557,Melksham,80,1,1,1
+Peterhead Hydrogen,Hydrogen,Hydrogen,720.1923395,Peterhead,80,1,1,1
+Keadby Hydrogen,Hydrogen,Hydrogen,436.6569813,Keadby,80,1,1,1
+Medway Hydrogen,Hydrogen,Hydrogen,448.5388039,Kemsley,80,1,1,1
+Saltend* Hydrogen,Hydrogen,Hydrogen,712.9093572,Keadby,80,1,1,1
+Cottam Development Centre Hydrogen,Hydrogen,Hydrogen,264.3705533,Keadby,80,1,1,1
+Enfield Hydrogen,Hydrogen,Hydrogen,242.3891815,London,80,1,1,1
+Grain CHP* Hydrogen,Hydrogen,Hydrogen,901.2362458,Kemsley,80,1,1,1
+VPI Immingham* Hydrogen,Hydrogen,Hydrogen,743.802096,Keadby,80,1,1,1
+Connahs Quay Hydrogen,Hydrogen,Hydrogen,819.8457608,Deeside,80,1,1,1
+Unmet Load Beauly,Unmet Load,Unmet Load,999999999,Beauly,999999999,1,1,1
+Unmet Load Peterhead,Unmet Load,Unmet Load,999999999,Peterhead,999999999,1,1,1
+Unmet Load Errochty,Unmet Load,Unmet Load,999999999,Errochty,999999999,1,1,1
+Unmet Load Denny/Bonnybridge,Unmet Load,Unmet Load,999999999,Denny/Bonnybridge,999999999,1,1,1
+Unmet Load Neilston,Unmet Load,Unmet Load,999999999,Neilston,999999999,1,1,1
+Unmet Load Strathaven,Unmet Load,Unmet Load,999999999,Strathaven,999999999,1,1,1
+Unmet Load Torness,Unmet Load,Unmet Load,999999999,Torness,999999999,1,1,1
+Unmet Load Eccles,Unmet Load,Unmet Load,999999999,Eccles,999999999,1,1,1
+Unmet Load Harker,Unmet Load,Unmet Load,999999999,Harker,999999999,1,1,1
+Unmet Load Stella West,Unmet Load,Unmet Load,999999999,Stella West,999999999,1,1,1
+Unmet Load Penwortham,Unmet Load,Unmet Load,999999999,Penwortham,999999999,1,1,1
+Unmet Load Deeside,Unmet Load,Unmet Load,999999999,Deeside,999999999,1,1,1
+Unmet Load Daines,Unmet Load,Unmet Load,999999999,Daines,999999999,1,1,1
+Unmet Load Th. Marsh/Stocksbridge,Unmet Load,Unmet Load,999999999,Th. Marsh/Stocksbridge,999999999,1,1,1
+Unmet Load Thornton/Drax/Eggborough,Unmet Load,Unmet Load,999999999,Thornton/Drax/Eggborough,999999999,1,1,1
+Unmet Load Keadby,Unmet Load,Unmet Load,999999999,Keadby,999999999,1,1,1
+Unmet Load Ratcliffe,Unmet Load,Unmet Load,999999999,Ratcliffe,999999999,1,1,1
+Unmet Load Feckenham,Unmet Load,Unmet Load,999999999,Feckenham,999999999,1,1,1
+Unmet Load Walpole,Unmet Load,Unmet Load,999999999,Walpole,999999999,1,1,1
+Unmet Load Bramford,Unmet Load,Unmet Load,999999999,Bramford,999999999,1,1,1
+Unmet Load Pelham,Unmet Load,Unmet Load,999999999,Pelham,999999999,1,1,1
+Unmet Load Sundon/East Claydon,Unmet Load,Unmet Load,999999999,Sundon/East Claydon,999999999,1,1,1
+Unmet Load Melksham,Unmet Load,Unmet Load,999999999,Melksham,999999999,1,1,1
+Unmet Load Bramley,Unmet Load,Unmet Load,999999999,Bramley,999999999,1,1,1
+Unmet Load London,Unmet Load,Unmet Load,999999999,London,999999999,1,1,1
+Unmet Load Kemsley,Unmet Load,Unmet Load,999999999,Kemsley,999999999,1,1,1
+Unmet Load Sellindge,Unmet Load,Unmet Load,999999999,Sellindge,999999999,1,1,1
+Unmet Load Lovedean,Unmet Load,Unmet Load,999999999,Lovedean,999999999,1,1,1
+Unmet Load S.W.Penisula,Unmet Load,Unmet Load,999999999,S.W.Penisula,999999999,1,1,1
+Wind Offshore Keadby,Wind Offshore,Wind Offshore,3127.080685,Keadby,-1,1,1,1
+Wind Offshore Peterhead,Wind Offshore,Floating Wind,21386.04561,Peterhead,-1,1,1,1
+Wind Offshore Deeside,Wind Offshore,Wind Offshore,2398.917611,Deeside,-1,1,1,1
+Wind Offshore Bramford,Wind Offshore,Wind Offshore,16631.15526,Bramford,-1,1,1,1
+Wind Offshore Walpole,Wind Offshore,Wind Offshore,14836.65767,Walpole,-1,1,1,1
+Wind Offshore Kemsley,Wind Offshore,Wind Offshore,311.5912539,Kemsley,-1,1,1,1
+Wind Offshore Harker,Wind Offshore,Wind Offshore,388.6514565,Harker,-1,1,1,1
+Wind Offshore Sellindge,Wind Offshore,Wind Offshore,670.0887181,Sellindge,-1,1,1,1
+Wind Offshore Penwortham,Wind Offshore,Wind Offshore,3699.33645,Penwortham,-1,1,1,1
+Wind Offshore Stella West,Wind Offshore,Wind Offshore,11399.54927,Stella West,-1,1,1,1
+Wind Offshore Lovedean,Wind Offshore,Wind Offshore,893.4516242,Lovedean,-1,1,1,1
+Wind Offshore Torness,Wind Offshore,Wind Offshore,2051.535121,Torness,-1,1,1,1
+Wind Offshore Beauly,Wind Offshore,Floating Wind,8978.82179,Beauly,-1,1,1,1
+Wind Offshore Neilston,Wind Offshore,Wind Offshore,2284.687478,Neilston,-1,1,1,1
+Wind Onshore Keadby,Wind Onshore,Wind Onshore,1369.042896,Keadby,-1,1,1,1
+Wind Onshore Peterhead,Wind Onshore,Wind Onshore,2802.312037,Peterhead,-1,1,1,1
+Wind Onshore Deeside,Wind Onshore,Wind Onshore,1805.874271,Deeside,-1,1,1,1
+Wind Onshore Bramford,Wind Onshore,Wind Onshore,154.468895,Bramford,-1,1,1,1
+Wind Onshore Walpole,Wind Onshore,Wind Onshore,1316.722774,Walpole,-1,1,1,1
+Wind Onshore Kemsley,Wind Onshore,Wind Onshore,381.18937,Kemsley,-1,1,1,1
+Wind Onshore Harker,Wind Onshore,Wind Onshore,1821.653364,Harker,-1,1,1,1
+Wind Onshore Sellindge,Wind Onshore,Wind Onshore,279.4558244,Sellindge,-1,1,1,1
+Wind Onshore Penwortham,Wind Onshore,Wind Onshore,969.1677559,Penwortham,-1,1,1,1
+Wind Onshore Stella West,Wind Onshore,Wind Onshore,1600.746213,Stella West,-1,1,1,1
+Wind Onshore Torness,Wind Onshore,Wind Onshore,2788.643864,Torness,-1,1,1,1
+Wind Onshore Beauly,Wind Onshore,Wind Onshore,7339.453732,Beauly,-1,1,1,1
+Wind Onshore Neilston,Wind Onshore,Wind Onshore,6571.987332,Neilston,-1,1,1,1
+Wind Onshore Melksham,Wind Onshore,Wind Onshore,3064.463556,Melksham,-1,1,1,1
+Wind Onshore Pelham,Wind Onshore,Wind Onshore,191.0099271,Pelham,-1,1,1,1
+Wind Onshore Thornton/Drax/Eggborough,Wind Onshore,Wind Onshore,1158.931969,Thornton/Drax/Eggborough,-1,1,1,1
+Wind Onshore Daines,Wind Onshore,Wind Onshore,230.0423934,Daines,-1,1,1,1
+Wind Onshore Th. Marsh/Stocksbridge,Wind Onshore,Wind Onshore,331.3606991,Th. Marsh/Stocksbridge,-1,1,1,1
+Wind Onshore S.W.Penisula,Wind Onshore,Wind Onshore,988.6839766,S.W.Penisula,-1,1,1,1
+Wind Onshore Ratcliffe,Wind Onshore,Wind Onshore,601.2660227,Ratcliffe,-1,1,1,1
+Wind Onshore Bramley,Wind Onshore,Wind Onshore,8.304779046,Bramley,-1,1,1,1
+Wind Onshore Sundon/East Claydon,Wind Onshore,Wind Onshore,663.1366244,Sundon/East Claydon,-1,1,1,1
+Wind Onshore London,Wind Onshore,Wind Onshore,56.47249955,London,-1,1,1,1
+Wind Onshore Denny/Bonnybridge,Wind Onshore,Wind Onshore,1140.606939,Denny/Bonnybridge,-1,1,1,1
+Wind Onshore Errochty,Wind Onshore,Wind Onshore,894.9219876,Errochty,-1,1,1,1
+Wind Onshore Feckenham,Wind Onshore,Wind Onshore,257.4481545,Feckenham,-1,1,1,1
+Wind Onshore Strathaven,Wind Onshore,Wind Onshore,5630.935192,Strathaven,-1,1,1,1
+Wind Onshore Eccles,Wind Onshore,Wind Onshore,356.3969521,Eccles,-1,1,1,1
+Solar Photovoltaics Keadby,Solar Photovoltaics,Solar Photovoltaics,2861.817542,Keadby,-1,1,1,1
+Solar Photovoltaics Peterhead,Solar Photovoltaics,Solar Photovoltaics,1079.348148,Peterhead,-1,1,1,1
+Solar Photovoltaics Deeside,Solar Photovoltaics,Solar Photovoltaics,2950.253151,Deeside,-1,1,1,1
+Solar Photovoltaics Bramford,Solar Photovoltaics,Solar Photovoltaics,3418.139193,Bramford,-1,1,1,1
+Solar Photovoltaics Walpole,Solar Photovoltaics,Solar Photovoltaics,5002.781976,Walpole,-1,1,1,1
+Solar Photovoltaics Kemsley,Solar Photovoltaics,Solar Photovoltaics,2718.880952,Kemsley,-1,1,1,1
+Solar Photovoltaics Harker,Solar Photovoltaics,Solar Photovoltaics,576.8881185,Harker,-1,1,1,1
+Solar Photovoltaics Sellindge,Solar Photovoltaics,Solar Photovoltaics,1750.202472,Sellindge,-1,1,1,1
+Solar Photovoltaics Penwortham,Solar Photovoltaics,Solar Photovoltaics,1046.830849,Penwortham,-1,1,1,1
+Solar Photovoltaics Stella West,Solar Photovoltaics,Solar Photovoltaics,615.964328,Stella West,-1,1,1,1
+Solar Photovoltaics Lovedean,Solar Photovoltaics,Solar Photovoltaics,4528.726043,Lovedean,-1,1,1,1
+Solar Photovoltaics Torness,Solar Photovoltaics,Solar Photovoltaics,2498.491194,Torness,-1,1,1,1
+Solar Photovoltaics Beauly,Solar Photovoltaics,Solar Photovoltaics,19.98792876,Beauly,-1,1,1,1
+Solar Photovoltaics Neilston,Solar Photovoltaics,Solar Photovoltaics,499.698237,Neilston,-1,1,1,1
+Solar Photovoltaics Melksham,Solar Photovoltaics,Solar Photovoltaics,15737.4256,Melksham,-1,1,1,1
+Solar Photovoltaics Pelham,Solar Photovoltaics,Solar Photovoltaics,5161.143388,Pelham,-1,1,1,1
+Solar Photovoltaics Thornton/Drax/Eggborough,Solar Photovoltaics,Solar Photovoltaics,1110.586745,Thornton/Drax/Eggborough,-1,1,1,1
+Solar Photovoltaics Daines,Solar Photovoltaics,Solar Photovoltaics,666.3520559,Daines,-1,1,1,1
+Solar Photovoltaics Th. Marsh/Stocksbridge,Solar Photovoltaics,Solar Photovoltaics,1414.969811,Th. Marsh/Stocksbridge,-1,1,1,1
+Solar Photovoltaics S.W.Penisula,Solar Photovoltaics,Solar Photovoltaics,16439.76886,S.W.Penisula,-1,1,1,1
+Solar Photovoltaics Ratcliffe,Solar Photovoltaics,Solar Photovoltaics,5319.504885,Ratcliffe,-1,1,1,1
+Solar Photovoltaics Bramley,Solar Photovoltaics,Solar Photovoltaics,3632.030006,Bramley,-1,1,1,1
+Solar Photovoltaics Sundon/East Claydon,Solar Photovoltaics,Solar Photovoltaics,5182.738174,Sundon/East Claydon,-1,1,1,1
+Solar Photovoltaics London,Solar Photovoltaics,Solar Photovoltaics,498.7357208,London,-1,1,1,1
+Solar Photovoltaics Denny/Bonnybridge,Solar Photovoltaics,Solar Photovoltaics,3248.038441,Denny/Bonnybridge,-1,1,1,1
+Solar Photovoltaics Errochty,Solar Photovoltaics,Solar Photovoltaics,29.98189314,Errochty,-1,1,1,1
+Solar Photovoltaics Feckenham,Solar Photovoltaics,Solar Photovoltaics,3647.45482,Feckenham,-1,1,1,1
+Solar Photovoltaics Strathaven,Solar Photovoltaics,Solar Photovoltaics,149.9094693,Strathaven,-1,1,1,1
+Large Hydro Deeside,Large Hydro,Large Hydro,192.33312,Deeside,-1,1,1,1
+Large Hydro Harker,Large Hydro,Large Hydro,45.821575,Harker,-1,1,1,1
+Large Hydro Beauly,Large Hydro,Large Hydro,816.6814488,Beauly,-1,1,1,1
+Large Hydro Neilston,Large Hydro,Large Hydro,267.292512,Neilston,-1,1,1,1
+Large Hydro Errochty,Large Hydro,Large Hydro,522.013474,Errochty,-1,1,1,1
+Large Hydro Strathaven,Large Hydro,Large Hydro,106.917005,Strathaven,-1,1,1,1
+Small Hydro Deeside,Small Hydro,Small Hydro,12.45406865,Deeside,-1,1,1,1
+Small Hydro Stella West,Small Hydro,Small Hydro,0.9399297,Stella West,-1,1,1,1
+Small Hydro Beauly,Small Hydro,Small Hydro,101.7473912,Beauly,-1,1,1,1
+Small Hydro Neilston,Small Hydro,Small Hydro,38.53711846,Neilston,-1,1,1,1
+Small Hydro Ratcliffe,Small Hydro,Small Hydro,1.9973507,Ratcliffe,-1,1,1,1
+Small Hydro Denny/Bonnybridge,Small Hydro,Small Hydro,8.45936735,Denny/Bonnybridge,-1,1,1,1
+Small Hydro Errochty,Small Hydro,Small Hydro,85.06363814,Errochty,-1,1,1,1
+Small Hydro Feckenham,Small Hydro,Small Hydro,6.4620167,Feckenham,-1,1,1,1
+Tidal lagoon Deeside,Tidal lagoon,Tidal lagoon,40,Deeside,-1,1,1,1
+Tidal lagoon Melksham,Tidal lagoon,Tidal lagoon,672,Melksham,-1,1,1,1
+Tidal lagoon S.W.Penisula,Tidal lagoon,Tidal lagoon,37,S.W.Penisula,-1,1,1,1
+Tidal stream Peterhead,Tidal stream,Tidal stream,154,Peterhead,-1,1,1,1
+Tidal stream Deeside,Tidal stream,Tidal stream,37,Deeside,-1,1,1,1
+Tidal stream Lovedean,Tidal stream,Tidal stream,37,Lovedean,-1,1,1,1
+Tidal stream Beauly,Tidal stream,Tidal stream,29,Beauly,-1,1,1,1
+Tidal stream Neilston,Tidal stream,Tidal stream,10,Neilston,-1,1,1,1
+Tidal stream S.W.Penisula,Tidal stream,Tidal stream,37,S.W.Penisula,-1,1,1,1
+Wave power Beauly,Wave power,Wave power,7,Beauly,-1,1,1,1
+Wave power Melksham,Wave power,Wave power,36,Melksham,-1,1,1,1
