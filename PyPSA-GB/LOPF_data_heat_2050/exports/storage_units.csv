@@ -1,0 +1,150 @@
+name,p_nom,carrier,marginal_cost,max_hours,efficiency_store,efficiency_dispatch,state_of_charge_initial,bus,standing_loss,capital_cost,p_nom_extendable,Unnamed: 12,Unnamed: 13,build_year,p_nom_opt
+Dinorwig,1741.158621,Pumped Storage Hydroelectric,0.0,18.44883689,0.865,0.865,32122.35139,Deeside,0.0,0.0,False,,,0,1741.158621
+Ffestiniog,362.7413793,Pumped Storage Hydroelectric,0.0,13.62467274,0.85,0.85,4942.232583,Deeside,0.0,0.0,False,,,0,362.7413793
+Cruachan,2316.540541,Pumped Storage Hydroelectric,0.0,56.53065553,0.865,0.865,130955.5553,Errochty,0.0,0.0,False,,,0,2316.540541
+Foyers,1579.459459,Pumped Storage Hydroelectric,0.0,73.57113078,0.865,0.865,116202.6184,Beauly,0.0,0.0,False,,,0,1579.459459
+Beauly Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Beauly,0.0,0.0,False,,,0,511.6791599
+Peterhead Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Peterhead,0.0,0.0,False,,,0,511.6791599
+Errochty Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Errochty,0.0,0.0,False,,,0,511.6791599
+Denny/Bonnybridge Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Denny/Bonnybridge,0.0,0.0,False,,,0,511.6791599
+Neilston Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Neilston,0.0,0.0,False,,,0,511.6791599
+Strathaven Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Strathaven,0.0,0.0,False,,,0,511.6791599
+Torness Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Torness,0.0,0.0,False,,,0,511.6791599
+Eccles Battery,511.6791599,Battery,0.0,1.79833674,0.95,0.95,920.1714322,Eccles,0.0,0.0,False,,,0,511.6791599
+Harker Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Harker,0.0,0.0,False,,,0,1068.289991
+Stella West Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Stella West,0.0,0.0,False,,,0,1068.289991
+Penwortham Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Penwortham,0.0,0.0,False,,,0,1068.289991
+Deeside Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Deeside,0.0,0.0,False,,,0,1068.289991
+Daines Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Daines,0.0,0.0,False,,,0,1068.289991
+Th. Marsh/Stocksbridge Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Th. Marsh/Stocksbridge,0.0,0.0,False,,,0,1068.289991
+Thornton/Drax/Eggborough Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Thornton/Drax/Eggborough,0.0,0.0,False,,,0,1068.289991
+Keadby Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Keadby,0.0,0.0,False,,,0,1068.289991
+Ratcliffe Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Ratcliffe,0.0,0.0,False,,,0,1068.289991
+Feckenham Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Feckenham,0.0,0.0,False,,,0,1068.289991
+Walpole Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Walpole,0.0,0.0,False,,,0,1068.289991
+Bramford Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Bramford,0.0,0.0,False,,,0,1068.289991
+Pelham Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Pelham,0.0,0.0,False,,,0,1068.289991
+Sundon/East Claydon Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Sundon/East Claydon,0.0,0.0,False,,,0,1068.289991
+Melksham Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Melksham,0.0,0.0,False,,,0,1068.289991
+Bramley Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Bramley,0.0,0.0,False,,,0,1068.289991
+London Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,London,0.0,0.0,False,,,0,1068.289991
+Kemsley Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Kemsley,0.0,0.0,False,,,0,1068.289991
+Sellindge Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Sellindge,0.0,0.0,False,,,0,1068.289991
+Lovedean Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,Lovedean,0.0,0.0,False,,,0,1068.289991
+S.W.Penisula Battery,1068.289991,Battery,0.0,1.79833674,0.95,0.95,1921.145139,S.W.Penisula,0.0,0.0,False,,,0,1068.289991
+Beauly Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Beauly,0.0,0.0,False,,,0,207.0103448
+Peterhead Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Peterhead,0.0,0.0,False,,,0,207.0103448
+Errochty Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Errochty,0.0,0.0,False,,,0,207.0103448
+Denny/Bonnybridge Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Denny/Bonnybridge,0.0,0.0,False,,,0,207.0103448
+Neilston Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Neilston,0.0,0.0,False,,,0,207.0103448
+Strathaven Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Strathaven,0.0,0.0,False,,,0,207.0103448
+Torness Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Torness,0.0,0.0,False,,,0,207.0103448
+Eccles Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Eccles,0.0,0.0,False,,,0,207.0103448
+Harker Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Harker,0.0,0.0,False,,,0,207.0103448
+Stella West Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Stella West,0.0,0.0,False,,,0,207.0103448
+Penwortham Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Penwortham,0.0,0.0,False,,,0,207.0103448
+Deeside Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Deeside,0.0,0.0,False,,,0,207.0103448
+Daines Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Daines,0.0,0.0,False,,,0,207.0103448
+Th. Marsh/Stocksbridge Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Th. Marsh/Stocksbridge,0.0,0.0,False,,,0,207.0103448
+Thornton/Drax/Eggborough Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Thornton/Drax/Eggborough,0.0,0.0,False,,,0,207.0103448
+Keadby Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Keadby,0.0,0.0,False,,,0,207.0103448
+Ratcliffe Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Ratcliffe,0.0,0.0,False,,,0,207.0103448
+Feckenham Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Feckenham,0.0,0.0,False,,,0,207.0103448
+Walpole Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Walpole,0.0,0.0,False,,,0,207.0103448
+Bramford Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Bramford,0.0,0.0,False,,,0,207.0103448
+Pelham Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Pelham,0.0,0.0,False,,,0,207.0103448
+Sundon/East Claydon Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Sundon/East Claydon,0.0,0.0,False,,,0,207.0103448
+Melksham Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Melksham,0.0,0.0,False,,,0,207.0103448
+Bramley Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Bramley,0.0,0.0,False,,,0,207.0103448
+London Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,London,0.0,0.0,False,,,0,207.0103448
+Kemsley Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Kemsley,0.0,0.0,False,,,0,207.0103448
+Sellindge Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Sellindge,0.0,0.0,False,,,0,207.0103448
+Lovedean Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,Lovedean,0.0,0.0,False,,,0,207.0103448
+S.W.Penisula Compressed Air,207.0103448,Compressed Air,0.0,4.999450302,0.69,0.69,1034.937931,S.W.Penisula,0.0,0.0,False,,,0,207.0103448
+Beauly Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Beauly,0.0,0.0,False,,,0,151.8827586
+Peterhead Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Peterhead,0.0,0.0,False,,,0,151.8827586
+Errochty Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Errochty,0.0,0.0,False,,,0,151.8827586
+Denny/Bonnybridge Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Denny/Bonnybridge,0.0,0.0,False,,,0,151.8827586
+Neilston Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Neilston,0.0,0.0,False,,,0,151.8827586
+Strathaven Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Strathaven,0.0,0.0,False,,,0,151.8827586
+Torness Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Torness,0.0,0.0,False,,,0,151.8827586
+Eccles Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Eccles,0.0,0.0,False,,,0,151.8827586
+Harker Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Harker,0.0,0.0,False,,,0,151.8827586
+Stella West Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Stella West,0.0,0.0,False,,,0,151.8827586
+Penwortham Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Penwortham,0.0,0.0,False,,,0,151.8827586
+Deeside Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Deeside,0.0,0.0,False,,,0,151.8827586
+Daines Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Daines,0.0,0.0,False,,,0,151.8827586
+Th. Marsh/Stocksbridge Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Th. Marsh/Stocksbridge,0.0,0.0,False,,,0,151.8827586
+Thornton/Drax/Eggborough Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Thornton/Drax/Eggborough,0.0,0.0,False,,,0,151.8827586
+Keadby Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Keadby,0.0,0.0,False,,,0,151.8827586
+Ratcliffe Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Ratcliffe,0.0,0.0,False,,,0,151.8827586
+Feckenham Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Feckenham,0.0,0.0,False,,,0,151.8827586
+Walpole Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Walpole,0.0,0.0,False,,,0,151.8827586
+Bramford Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Bramford,0.0,0.0,False,,,0,151.8827586
+Pelham Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Pelham,0.0,0.0,False,,,0,151.8827586
+Sundon/East Claydon Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Sundon/East Claydon,0.0,0.0,False,,,0,151.8827586
+Melksham Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Melksham,0.0,0.0,False,,,0,151.8827586
+Bramley Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Bramley,0.0,0.0,False,,,0,151.8827586
+London Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,London,0.0,0.0,False,,,0,151.8827586
+Kemsley Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Kemsley,0.0,0.0,False,,,0,151.8827586
+Sellindge Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Sellindge,0.0,0.0,False,,,0,151.8827586
+Lovedean Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,Lovedean,0.0,0.0,False,,,0,151.8827586
+S.W.Penisula Liquid Air,151.8827586,Liquid Air,0.0,4.089497344,0.69,0.69,621.1241379,S.W.Penisula,0.0,0.0,False,,,0,151.8827586
+Beauly P2G,4073.729966,P2G,500.0,999999999.0,0.95,0.95,0.0,Beauly,0.0,0.0,False,,,0,4073.729966
+Denny/Bonnybridge P2G,378.5273849,P2G,500.0,999999999.0,0.95,0.95,0.0,Denny/Bonnybridge,0.0,0.0,False,,,0,378.5273849
+Eccles P2G,75.69386838,P2G,500.0,999999999.0,0.95,0.95,0.0,Eccles,0.0,0.0,False,,,0,75.69386838
+Errochty P2G,170.2914357,P2G,500.0,999999999.0,0.95,0.95,0.0,Errochty,0.0,0.0,False,,,0,170.2914357
+Neilston P2G,2071.330125,P2G,500.0,999999999.0,0.95,0.95,0.0,Neilston,0.0,0.0,False,,,0,2071.330125
+Peterhead P2G,7491.144833,P2G,500.0,999999999.0,0.95,0.95,0.0,Peterhead,0.0,0.0,False,,,0,7491.144833
+Strathaven P2G,959.7172365,P2G,500.0,999999999.0,0.95,0.95,0.0,Strathaven,0.0,0.0,False,,,0,959.7172365
+Torness P2G,1381.134454,P2G,500.0,999999999.0,0.95,0.95,0.0,Torness,0.0,0.0,False,,,0,1381.134454
+Bramford P2G,5153.28192,P2G,500.0,999999999.0,0.95,0.95,0.0,Bramford,0.0,0.0,False,,,0,5153.28192
+Bramley P2G,305.0119287,P2G,500.0,999999999.0,0.95,0.95,0.0,Bramley,0.0,0.0,False,,,0,305.0119287
+Daines P2G,101.1744819,P2G,500.0,999999999.0,0.95,0.95,0.0,Daines,0.0,0.0,False,,,0,101.1744819
+Deeside P2G,1245.734518,P2G,500.0,999999999.0,0.95,0.95,0.0,Deeside,0.0,0.0,False,,,0,1245.734518
+Feckenham P2G,318.9349636,P2G,500.0,999999999.0,0.95,0.95,0.0,Feckenham,0.0,0.0,False,,,0,318.9349636
+Harker P2G,422.1362893,P2G,500.0,999999999.0,0.95,0.95,0.0,Harker,0.0,0.0,False,,,0,422.1362893
+Keadby P2G,1527.366016,P2G,500.0,999999999.0,0.95,0.95,0.0,Keadby,0.0,0.0,False,,,0,1527.366016
+Kemsley P2G,411.7118742,P2G,500.0,999999999.0,0.95,0.95,0.0,Kemsley,0.0,0.0,False,,,0,411.7118742
+London P2G,53.0422279,P2G,500.0,999999999.0,0.95,0.95,0.0,London,0.0,0.0,False,,,0,53.0422279
+Lovedean P2G,637.4210712,P2G,500.0,999999999.0,0.95,0.95,0.0,Lovedean,0.0,0.0,False,,,0,637.4210712
+Melksham P2G,1877.308427,P2G,500.0,999999999.0,0.95,0.95,0.0,Melksham,0.0,0.0,False,,,0,1877.308427
+Pelham P2G,466.3468232,P2G,500.0,999999999.0,0.95,0.95,0.0,Pelham,0.0,0.0,False,,,0,466.3468232
+Penwortham P2G,1466.600371,P2G,500.0,999999999.0,0.95,0.95,0.0,Penwortham,0.0,0.0,False,,,0,1466.600371
+Ratcliffe P2G,539.026603,P2G,500.0,999999999.0,0.95,0.95,0.0,Ratcliffe,0.0,0.0,False,,,0,539.026603
+S.W.Penisula P2G,1669.133005,P2G,500.0,999999999.0,0.95,0.95,0.0,S.W.Penisula,0.0,0.0,False,,,0,1669.133005
+Sellindge P2G,458.9123689,P2G,500.0,999999999.0,0.95,0.95,0.0,Sellindge,0.0,0.0,False,,,0,458.9123689
+Stella West P2G,4148.918629,P2G,500.0,999999999.0,0.95,0.95,0.0,Stella West,0.0,0.0,False,,,0,4148.918629
+Sundon/East Claydon P2G,568.1202675,P2G,500.0,999999999.0,0.95,0.95,0.0,Sundon/East Claydon,0.0,0.0,False,,,0,568.1202675
+Th. Marsh/Stocksbridge P2G,183.3837463,P2G,500.0,999999999.0,0.95,0.95,0.0,Th. Marsh/Stocksbridge,0.0,0.0,False,,,0,183.3837463
+Thornton/Drax/Eggborough P2G,322.373378,P2G,500.0,999999999.0,0.95,0.95,0.0,Thornton/Drax/Eggborough,0.0,0.0,False,,,0,322.373378
+Walpole P2G,5371.75253,P2G,500.0,999999999.0,0.95,0.95,0.0,Walpole,0.0,0.0,False,,,0,5371.75253
+STES_Beauly,500.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 1,0.1,1000.0,True,,,0,5745.880499
+STES_Peterhead,500.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 2,0.1,1000.0,True,,,0,22018.907111710207
+STES_Errochty,500.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 3,0.1,1000.0,True,,,0,499.81731823164
+STES_Denny/BonnyBdige,501.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 4,0.1,1000.0,True,,,0,499.81731823164006
+STES_Neilston,502.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 5,0.1,1000.0,True,,,0,1853.6420912946958
+STES_Strathaven,503.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 6,0.1,1000.0,True,,,0,499.81731823164006
+STES_Torness,504.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 7,0.1,1000.0,True,,,0,499.81731823164006
+STES_Eccles,505.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 8,0.1,1000.0,True,,,0,499.81731823164
+STES_Harker,506.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 9,0.1,1000.0,True,,,0,499.81731823164
+STES_Stella West,507.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 10,0.1,1000.0,True,,,0,499.81731823164006
+STES_Penwortham,508.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 11,0.1,1000.0,True,,,0,499.81731823164006
+STES_Deeside,508.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 12,0.1,1000.0,True,,,0,499.81731823164006
+STES_Daines,509.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 13,0.1,1000.0,True,,,0,499.81731823164006
+STES_Marsh_Stocksbridge,510.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 14,0.1,1000.0,True,,,0,499.81731823164006
+STES_Thornton_Drax_Eggborough,511.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 15,0.1,1000.0,True,,,0,499.81731823164006
+STES_Keadby,512.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 16,0.1,1000.0,True,,,0,499.81731823164006
+STES_Ratcliffe,513.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 17,0.1,1000.0,True,,,0,903.9456658
+STES_Feckenham,514.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 18,0.1,1000.0,True,,,0,499.81731823164006
+STES_Walpole,515.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 19,0.1,1000.0,True,,,0,16444.943549349617
+STES_Bramford,516.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 20,0.1,1000.0,True,,,0,12173.12018760031
+STES_Pelham,500.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 21,0.1,1000.0,True,,,0,4312.9382894391865
+STES_Sundon_East_Claydon,501.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 22,0.1,1000.0,True,,,0,1290.196186
+STES_Melksham,502.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 23,0.1,1000.0,True,,,0,499.81731823164006
+STES_Bramley,503.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 24,0.1,1000.0,True,,,0,499.81731823164006
+STES_London,504.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 25,0.1,1000.0,True,,,0,499.81731823164006
+STES_Kemsley,505.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 26,0.1,1000.0,True,,,0,499.81731823164006
+STES_Sellindge,506.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 27,0.1,1000.0,True,,,0,499.81731823164006
+STES_Lovedean,507.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 28,0.1,1000.0,True,,,0,499.81731823164006
+STES_S_W_Penisula,508.0,Seasonal Thermal Energy Storage,0.0,2880.0,0.9,0.95,1440000.0,Heat Bus 29,0.1,1000.0,True,,,0,1184.220830418939
